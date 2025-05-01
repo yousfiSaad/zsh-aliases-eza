@@ -14,7 +14,7 @@ brew install eza
 Clone the plugin repo to custom plugins directory
 
 ```bash
-git clone https://github.com/yousfiSaad/zsh-aliases-eza.git ~/.oh-my-zsh/custom/plugins/zsh-aliases-eza/
+git clone https://github.com/mdarrint/zsh-aliases-exa.git ~/.oh-my-zsh/custom/plugins/zsh-aliases-eza/
 ```
 
 Lastly, add `zsh-aliases-eza` to the plugins array of your zshrc file:
