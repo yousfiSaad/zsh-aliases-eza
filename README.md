@@ -11,8 +11,11 @@ To use it, you should first install [`eza`](https://eza.rocks/). You can do so e
 ```bash
 brew install eza
 ```
+Clone the plugin repo to custom plugins directory
 
-Next, download this repo into your custom plugins directory. For my installation using [Oh My Zsh](https://ohmyz.sh/), I cloned the repo to `~/.oh-my-zsh/custom/plugins`.
+```bash
+git clone https://github.com/yousfiSaad/zsh-aliases-eza.git ~/.oh-my-zsh/custom/plugins/zsh-aliases-eza/
+```
 
 Lastly, add `zsh-aliases-eza` to the plugins array of your zshrc file:
 
